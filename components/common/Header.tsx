@@ -8,7 +8,7 @@ const Header = () => {
     <header className={styles.header}>
       <div className={styles.flexitem}>
         <Link href="/" className={styles.logo}>
-          <Image src="logo.png" alt="건강증진센터" width={40} height={40} />
+          <Image src="/logo.png" alt="건강증진센터" width={40} height={40} />
         </Link>
       </div>
     </header>
