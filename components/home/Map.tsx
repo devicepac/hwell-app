@@ -40,7 +40,7 @@ const Map = ({
     // 출력한다.
     mapRef.current = map;
 
-    //   초기 로딩후 처리
+    // 초기 로딩후 처리
     if (onLoad) {
       onLoad(map);
     }
