@@ -5,5 +5,3 @@ export type Marker = {
   map: NaverMap;
   cordinates: Cordinates;
 };
-
-
